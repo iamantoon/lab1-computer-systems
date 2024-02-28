@@ -1,0 +1,7 @@
+C:\ComputerSystems\lab1\base64\base64\bin\Debug\base64.exe.config
+C:\ComputerSystems\lab1\base64\base64\bin\Debug\base64.exe
+C:\ComputerSystems\lab1\base64\base64\bin\Debug\base64.pdb
+C:\ComputerSystems\lab1\base64\base64\obj\Debug\base64.csproj.AssemblyReference.cache
+C:\ComputerSystems\lab1\base64\base64\obj\Debug\base64.csproj.CoreCompileInputs.cache
+C:\ComputerSystems\lab1\base64\base64\obj\Debug\base64.exe
+C:\ComputerSystems\lab1\base64\base64\obj\Debug\base64.pdb
